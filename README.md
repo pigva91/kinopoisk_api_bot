@@ -21,7 +21,7 @@
 Установка:
 
 Клонировать репозиторий:
-git clone https://github.com/pigva91/project.git
+git clone https://github.com/pigva91/kinopoisk_api_bot.git
 
 
 Установить зависимости:
