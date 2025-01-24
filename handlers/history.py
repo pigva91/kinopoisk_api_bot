@@ -120,7 +120,7 @@ def format_history(histories: List[History]) -> str:
             f"🔍Тип поиска: {history.search_type}\n"
         )
         history_text += (
-            history_text_part + "\n_______________________________________\n"
+            history_text_part + "\n___________________________________\n"
         )
     return history_text
 
